@@ -15,7 +15,6 @@ from streamlit_chat import message
 from langchain.callbacks import get_openai_callback
 
 
-
 # "with" notation
 def main():
     load_dotenv()
